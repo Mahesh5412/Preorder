@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881764901507",
+    "firebase_url": "https://preorder-38864.firebaseio.com",
+    "project_id": "preorder-38864",
+    "storage_bucket": "preorder-38864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881764901507:android:5bd73a23f08b4f15",
+        "android_client_info": {
+          "package_name": "com.cadracpreorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881764901507-re81ilc5ghmco62rjpg6ho2eb4c4kcs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuciwCjgnKldpDJAurUeW7a0cRNy5CDP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881764901507-re81ilc5ghmco62rjpg6ho2eb4c4kcs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

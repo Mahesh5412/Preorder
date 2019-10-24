@@ -1,0 +1,4 @@
+#Thu Oct 24 18:26:01 IST 2019
+base.0=/home/cadrac/Desktop/maheshgit/Preorder/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

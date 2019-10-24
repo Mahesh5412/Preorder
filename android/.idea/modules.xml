@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android/@react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android/@react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PreOrder.iml" filepath="$PROJECT_DIR$/PreOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-android-keyboard-adjust/android/react-native-android-keyboard-adjust.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-android-keyboard-adjust/android/react-native-android-keyboard-adjust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-android-location-enabler/android/react-native-android-location-enabler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-android-location-enabler/android/react-native-android-location-enabler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-android-location-services-dialog-box/android/react-native-android-location-services-dialog-box.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-android-location-services-dialog-box/android/react-native-android-location-services-dialog-box.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-geocoder/android/react-native-geocoder.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-geocoder/android/react-native-geocoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-razorpay/android/react-native-razorpay.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-razorpay/android/react-native-razorpay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-snackbar/android/react-native-snackbar.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-snackbar/android/react-native-snackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" filepath="$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>
